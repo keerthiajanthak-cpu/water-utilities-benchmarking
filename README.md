@@ -2,7 +2,8 @@
 
 An independent analysis of nine state and territory-owned major water utilities in Australia, assessing financial performance, returns to Government, financial risk and customer bills.
 
-![Dashboard](dashboard.png)
+<img width="1964" height="1286" alt="image" src="https://github.com/user-attachments/assets/8ada7129-473d-4885-babc-16d06cf0c559" />
+
 
 ## Tools
 Excel (SUMIFS, data cleaning, ratio analysis, charts)
